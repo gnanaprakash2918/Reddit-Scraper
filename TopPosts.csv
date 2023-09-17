@@ -1,0 +1,111 @@
+,Title,Post Text,Total Comments,Post URL
+0,IRS holds record for oldest software system in continuous use,,309,https://www.guinnessworldrecords.com/world-records/636196-oldest-software-system-in-continuous-use
+1,Please sign Mozilla petition to stop France from forcing browsers to censor websites,,251,https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/
+2,How Instagram scaled to 14 million users with only 3 engineers,,260,https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million
+3,Unity Silently Deletes GitHub Repo that Tracks Terms of Service Changes and Updated Its License,,172,https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/
+4,I reached my goal and now my snake game fits in a version 4 QR code,Thanks to @peterferrie and @hen-ter for helping me reach my goal,108,https://github.com/donno2048/snake
+5,Refusing TypeScript is a signal that you don't care about code quality,,1059,https://vitonsky.net/blog/2023/09/08/typescript-and-code-quality/
+6,Unity to introduce runtime fee based on installs,,366,https://blog.unity.com/news/plan-pricing-and-packaging-updates
+7,"TIL of the ""Reverse Red Herrings"" phenomena - pieces of information that are discarded early on in an incident or system crash, which later turn out to be the very key which cracks the whole case",,117,https://www.blameless.com/blog/the-reverse-red-herring
+8,The Worst Programmer I Know,,267,https://dannorth.net/2023/09/02/the-worst-programmer/
+9,Death by a thousand microservices,,372,https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
+10,8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers,,217,https://newsletter.systemdesign.one/p/whatsapp-engineering
+11,Any sufficiently advanced uninstaller is indistinguishable from malware,,199,https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749
+12,"Margaret Betts, Bletchley Park codebreaker, has died at the age of 99",,40,https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99
+13,Android has a separate class and documentation to see how often you have sex,,170,https://developer.android.com/reference/androidx/health/connect/client/records/SexualActivityRecord
+14,Announcing Python in Excel: Combining the power of Python and the flexibility of Excel.,,223,https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439
+15,IBM taps AI to translate COBOL code to Java | TechCrunch,,410,https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/
+16,Code.gov is the federal government’s platform for sharing and exploring America’s open source software.,,138,https://code.gov
+17,OpenTF Announces Fork of Terraform,,151,https://opentf.org/announcement
+18,A deep dive into the bug that caused the UK air traffic control meltdown,,147,https://jameshaydon.github.io/nats-fail/
+19,Stack Overflow must change its attitude towards users.,,583,https://meta.stackoverflow.com/questions/426406/i-know-how-to-mitigate-the-fall-of-stack-overflow
+20,"Crumb: A New Programming Language Where There are No Keywords, and Everything is a Function",,95,https://github.com/liam-ilan/crumb
+21,"Leslie Lamport says if you don’t get the design right from the beginning, then every piece of the code you write is a patch. Do you agree or disagree with his approach?",,301,https://changelog.fm/552#transcript-45
+22,JetBrains RustRover,,254,https://www.jetbrains.com/rust/
+23,My journey modifying the Rust compiler to target .NET runtime,,35,https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html
+24,Introducing the new Godot Development Fund,,51,https://godotengine.org/article/godot-developer-fund/
+25,North Korean Hackers Suspected in New Wave of Malicious npm Packages,,86,https://thehackernews.com/2023/08/north-korean-hackers-suspected-in-new.html
+26,"Should an answer on Stack Overflow remain a monument to itself, or provide a useful contemporary solution?",,131,https://meta.stackoverflow.com/q/426288/285587
+27,When a Programmer Holds the Code Hostage: The costs of a policy of appeasement,,129,https://ykulbashian.medium.com/when-a-programmer-holds-the-code-hostage-667b65a10a2d
+28,"Ruby on Rails creator removes TypeScript from Turbo framework, upsets community • DEVCLASS",,429,https://devclass.com/2023/09/07/ruby-on-rails-creator-removes-typescript-from-turbo-framework-upsets-community/?td=rt-3a
+29,Intel Releases Updated Version Of Its Open-Source Font For Developers,,99,https://github.com/intel/intel-one-mono
+30,"No-WEI Banner: A banner that will display to Chrome visitors only, warning them of the dangers of WEI.",,58,https://github.com/lordfeck/no-wei
+31,Short session expiration does not help security,,133,https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/
+32,7 coding habits of the best engineers I know,,133,https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers
+33,My Solution To The Dev Skills Crisis: Much Smaller Teams,,310,https://levelup.gitconnected.com/my-solution-to-the-dev-skills-crisis-much-smaller-teams-a995c32e8707?sk=3a0d393283aa3a880fc1fc6b2ebb77eb
+34,Commit Mono Font - An Anonymous and Neutral Programming Typeface Focused On Creating a Better Reading Experience,,96,https://github.com/eigilnikolajsen/commit-mono
+35,Visual Studio for Mac Retirement Announcement - Visual Studio Blog,,123,https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/
+36,Do Developers Still Want Swag?,,284,https://codesubmit.io/blog/do-developers-want-swag/
+37,Terraform Fork OpenTF Repository is now Public,,40,https://github.com/opentffoundation/opentf
+38,Java 21 makes me actually like Java again,,421,https://wscp.dev/posts/tech/java-pattern-matching/
+39,Two years for developing an MMO,,69,https://raiding.zone/docs/posts/retrospective/
+40,Explaining The Postgres Meme,,47,https://www.avestura.dev/blog/explaining-the-postgres-meme
+41,(Namecheap) Upcoming .COM and .XYZ domain price increase,,82,https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/
+42,PostgreSQL 16 Released,,62,https://www.postgresql.org/about/news/postgresql-16-released-2715/
+43,TIL the waterfall paper describes an iterative development process,,91,https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means
+44,72-year-old C++ creator Bjarne Stroustrup shares life advice,,69,https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice
+45,Dirty downside of 'return to office'; ending WFH could make climate crisis worse,,179,https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8
+46,The 11 Types Of Toxic Pull Requests (According To 4.5 Million Code Branches),,155,https://devinterrupted.substack.com/p/the-11-types-of-toxic-pull-requests
+47,Turbo 8 is dropping TypeScript,,482,https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01
+48,"I spent three years making this open source video pipeline library, today I'm releasing the first public build.",,37,https://github.com/adrianseeley/FastMJPG
+49,Prefer Positive Booleans,,176,https://codehealth.dev/prefer-positive-booleans/
+50,TDD Doesn't Force Good Design,"I'm a lover of tdd, but I never liked the claim that it FORCED good design. I think it sends the wrong message to newcomers",214,https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/
+51,The Rust I wanted had No Future - Graydon Hoare,,103,https://graydon2.dreamwidth.org/307291.html
+52,"This website claims to offer secure and privacy aware PDF alteration for free, even when offline, by using WebAssembly. Are there any ways to validate those claims? For example, by using disassemblers for Wasm (if there are any)?",,84,https://pdftool.org
+53,"I created GPT Pilot - a PoC for a dev tool that writes fully working apps from scratch while the developer oversees the implementation - it creates code and tests step by step as a human would, debugs the code, runs commands, and asks for feedback.",,108,https://github.com/Pythagora-io/gpt-pilot
+54,The Log: What every software engineer should know about real-time data's unifying abstraction,,11,https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+55,"Everything I wish I knew before moving 50,000 lines of code to React Server Components",,113,https://www.mux.com/blog/what-are-react-server-components
+56,"I didn't write any Javascript, and other shortcuts",,85,https://csvbase.com/blog/4
+57,Fixing an Unresponsive Medical Imaging Database (That the vendor couldn't fix),,47,http://voidstar.tech/slow_database/
+58,Just spelled Github wrong for the first time,,35,https://guthib.com/
+59,Should I use my personal Github account to write code for my company or create a new one?,"I recently joined a company and they apparently have their own organisation on github. I was just wonder if it’s recommended to use your personal Github account to write code for my company or should I create a github with company’s email to create a new account?
+
+I would personally prefer the personal account as I mostly use it for my personal projects and future employers will also know that I have worked at a company from my commit history.
+
+What do you recommend??",195,http://github.com
+60,Why my favourite API is a zipfile on the European Central Bank's website,,32,https://csvbase.com/blog/5
+61,"Configuring Identity - Adam Jacob, Chef, and the Search for Self in Software",,17,https://corecursive.com/configuring-identity-adam-jacob/
+62,Code Quality: Empirical Data Shatters The Speed Vs. Quality Myth,,104,https://www.forbes.com/sites/forbestechcouncil/2023/09/07/the-code-quality-advantage-how-empirical-data-shatters-the-speed-vs-quality-myth/
+63,Every Software Project is a Startup that Will Probably Fail,,39,https://muldoon.cloud/2023/09/06/software-keeps-failing.html
+64,What was the developer experience like in the old days?,"I've been curious about this for a long time as to how did the people during the old days finish writing software that went on to reshape the world. 
+I mean, nowadays we have an lsp that is there to correct us and give us syntax cause who wants to go through the pain of remembering keywords right?
+If you're from the webdev world then you have frameworks with hot module replacement or reloading so that we don't have to go through the process of compiling things or the minor inconvenience of saving our files and restarting our dev servers, something that the new generation of devs seem to have no gratitude for at all. This speed with which we can produce software seems to make us too lazy I guess, we don't seem to be that concerned with getting it right the first time and we adopt that attitude of, ""I'll eventually fix it."", which often leads to horrendous software experiences. 
+Then there is AI, which kind of takes away the need to really and I mean really learn what we are doing. Just the understanding of how the boilerplate works is something that can only be achieved if we try to write it down and reason about it. But that is gone, ai can just generate that and the people with no experience are expected to write the parts in the middle that connects everything and the problem is that they don't even have the fundamentals down to be able to do that. 
+Basically, developer experience nowadays is getting automated to a level where we'll probably stop having good new programmers.
+
+And that really makes me appreciate the generation that was stuck on a few kilobytes of ram with just a plain text editor making things for the future. I don't even get why we are so ungrateful and unwilling to learn the fundamentals. Where is the humility? Do you really think that the code that an ai wrote that you just copied over proves thay you have any sort of intelligence? Be humble and keep learning.",196,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjH-QrXfzGwURF2uSv8GBFkY0LaIv2Ktvfew&usqp=CAU
+65,Stringzilla: 10x Faster SIMD-accelerated String Class,,41,https://github.com/ashvardanian/Stringzilla
+66,The first conformant M1 GPU driver,,3,https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html
+67,Writing a C compiler in 500 lines of Python,,27,https://vgel.me/posts/c500/
+68,Performance Improvements in .NET 8 - .NET Blog,,36,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/
+69,"Social Engineering: ""And all it took was a crying baby and a phone call?..."" 😱",,50,https://youtu.be/T_h1lL6C_Ys
+70,The grug brained developer,,17,https://grugbrain.dev
+71,"The guy who ranted a few weeks ago about Data Scientists not being programmers is actually trying to teach them how to write tests - in Towards Data Science. Are there other things that they can learn from us? I'm not talking SOLID or TDD this time but code etiquette, maintenance, abstractions, etc.",,108,https://towardsdatascience.com/data-science-better-practices-part-1-test-your-queries-629ad5209f28
+72,"Contributor License Agreements (CLAs) impede modest contributions. ""[B]asically a CLA means I'm not sending in our bug fixes. Not because I'm nasty, but because I can't.""",,72,https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributions
+73,Elixir Saves Pinterest $2 Million a Year In Server Costs,,115,https://paraxial.io/blog/elixir-savings
+74,An Excruciatingly Detailed Guide To SSH,,12,https://grahamhelton.com/blog/ssh-cheatsheet
+75,Use your database to power state machines,,38,https://blog.lawrencejones.dev/state-machines/
+76,GitLab's plan to support ActivityPub for merge requests,,27,https://gitlab.com/groups/gitlab-org/-/epics/11247
+77,GraphQL: Why would you want it?,,138,https://blog.robertroskam.com/p/graphql-why-would-you-want-it
+78,"How We Burnout, the ""Two Health Bar"" Theory",,26,https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout
+79,How to find time to learn after work,,63,https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/
+80,Compiling typed Python: types are very broad hints and they are sometimes lies.,,48,https://bernsteinbear.com/blog/typed-python/
+81,How much faster is java 21?,,26,https://timefold.ai/blog/2023/java-21-performance/
+82,The reality of Not Invented Here,,80,https://billabear.com/posts/reality-of-not-invented-here/
+83,Scrum: Failure By Design?,,247,https://mdalmijn.com/p/scrum-failure-by-design
+84,Linear code is more readable,,97,https://blog.separateconcerns.com/2023-09-11-linear-code.html
+85,Everything a developer needs to know about configuration and secret management in .NET,,16,https://stenbrinke.nl/blog/configuration-and-secret-management-in-dotnet/
+86,Microservice architecture – the right way – even for startups,,14,https://github.com/fvst-dev/fvst-monorepo
+87,Leveraging Rust in our high-performance Java database,,28,https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/
+88,Running a Windows executable on Linux in 17 easy steps,,32,https://zdimension.fr/running-an-exe-on-linux-in-17-easy-steps/
+89,What to look for when hiring a new engineer for your team?,,94,https://newsletter.eng-leadership.com/p/what-to-look-for-when-hiring-a-new
+90,Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512,,36,https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/
+91,Scaling Cassandra to Tens of Thousands of Nodes at Uber,,50,https://blog.quastor.org/p/uber-scaled-cassandra-tens-thousands-nodes-a4d4
+92,100% Test Coverage Is Not Enough: In Praise of Property-Based Testing,,149,https://blog.robertroskam.com/p/100-test-coverage-is-not-enough
+93,The Debugging Dilemma - Why So Many Beginners Give Up on Programming,,73,https://pinta.land/posts/debugging-dilemma/
+94,Loom's nightmare AWS outage and how it might have been prevented,,14,https://overmind.tech/blog/looms-nightmare-aws-outage
+95,GitHub alienates users with AI recommendations,,29,https://www.theregister.com/2023/09/13/github_alienates_customers_by_force/?td=rt-3a
+96,RIP AWS Go Lambda Runtime | Mark Wolfe's Blog,,16,https://www.wolfe.id.au/2023/08/09/rip-aws-go-lambda-runtime/
+97,"All Major Software Architecture Patterns Explained in 7 Minutes | Meaning, Design, Models & Examples",,17,https://www.youtube.com/watch?v=ZTVAs9cNo30
+98,Fully lock-free Actor Model and Software Transactional Memory in C++20,,10,https://github.com/eduard-permyakov/peredvizhnikov-engine
+99,"When an ""AI-powered developer platform"" ruins a UI, asks for feedback, gets and igores negative feedback: Updates to your GitHub Feed",,14,https://github.com/orgs/community/discussions/65343
